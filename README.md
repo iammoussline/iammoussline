@@ -19,9 +19,7 @@ I'm a budding DevOps enthusiast with a keen interest in automation, continuous d
 
 ## Connect with Me
 
-- [LinkedIn](Link to your LinkedIn profile)
-- [Twitter](Link to your Twitter profile)
-- [Portfolio/Blog](Link to your portfolio or blog)
+- [LinkedIn](www.linkedin.com/in/mmustafakandemir)
 - [Email](mouhammed.kandemir@gmail.com)
 
 ## My GitHub Stats
