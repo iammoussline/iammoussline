@@ -21,12 +21,8 @@ I'm a budding DevOps enthusiast with a keen interest in automation, continuous d
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iammoussline&layout=compact)
 
-## Recent Activity
 
-<!--START_SECTION:activity-->
-1. [Opened issue #1 in RepoName](Link to Issue)
-2. [Pushed 3 commits to RepoName](Link to Commits)
-3. [Opened PR #2 in RepoName](Link to PR)
-<!--END_SECTION:activity-->
+
+
 
 Feel free to explore my repositories and reach out if you have any questions or just want to chat!
