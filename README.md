@@ -10,13 +10,6 @@ I'm a budding DevOps enthusiast with a keen interest in automation, continuous d
 - 📫 How to reach me: mouhammed.kandemir@gmail.com
 - 😄 Pronouns: He
 
-## Skills
-
-- Deployment Automation (CI/CD)
-- Container Orchestration (Docker, Kubernetes)
-- Infrastructure as Code (Terraform, Ansible)
-- Configuration Management (Chef, Puppet)
-
 ## Connect with Me
 
 - [LinkedIn](www.linkedin.com/in/mmustafakandemir)
