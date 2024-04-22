@@ -22,7 +22,7 @@
 ###
 
 <div align="center">
-  <a href="www.linkedin.com/in/mmustafakandemir" target="_blank">
+  <a href="https://www.linkedin.com/in/mmustafakandemir" target="_blank">
     <img src="https://github.com/iammoussline/iammoussline/blob/master/MUSTAFA%20KANDEMIR.png?raw=true" height="50" alt="linkedin logo"  />
   </a>
 </div>
