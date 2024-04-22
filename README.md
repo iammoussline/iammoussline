@@ -7,11 +7,11 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iammoussline&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="iammoussline's Top Languages" width="400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iammoussline&theme=radical&hide_border=true" alt="iammoussline's Streak" width="400" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iammoussline&theme=radical&hide_border=true" alt="iammoussline's Streak" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iammoussline&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="iammoussline's Top Languages" width="400" />
 </div>
 
 ###
