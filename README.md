@@ -1,15 +1,21 @@
 <h2 align="left">Hi there, I'm Mustafa Kandemir! 👋.</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iammoussline&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="iammoussline's Stats" width="400" style="pointer-events: none;" />
+  <a href="https://github.com/iammoussline" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api?username=iammoussline&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="iammoussline's Stats" width="400" style="pointer-events: none;" />
+  </a>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iammoussline&theme=radical&hide_border=true" alt="iammoussline's Streak" width="400" style="pointer-events: none;" />
+  <a href="https://github.com/iammoussline" target="_blank">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=iammoussline&theme=radical&hide_border=true" alt="iammoussline's Streak" width="400" style="pointer-events: none;" />
+  </a>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iammoussline&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="iammoussline's Top Languages" width="400" style="pointer-events: none;" />
+  <a href="https://github.com/iammoussline" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iammoussline&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="iammoussline's Top Languages" width="400" style="pointer-events: none;" />
+  </a>
 </div>
 
 <div align="left" style="pointer-events: none;">
